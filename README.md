@@ -1,4 +1,3 @@
-
 # Laravel API Backend
 
 This Laravel project serves as a RESTful API backend that powers multiple clients:  
